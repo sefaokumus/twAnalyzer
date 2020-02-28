@@ -7,5 +7,5 @@ This was a private 3-months project that is developed for an NGO who wants to an
 
 ### PROJECT DESCRIPTIONS
 
-The frontend created using HTML, Javascript, Jquery, Semantic-UI, ASP.Net,
+The frontend created using HTML, Javascript, React.js, Semantic-UI
 and backend created using C#, WCF Services, MSSQL
